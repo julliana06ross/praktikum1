@@ -1,2 +1,6 @@
 print("Hello World Test 2")
+<<<<<<< HEAD
 print("Adding info from test_branch_1")
+=======
+print("Adding info from test_branch_2")
+>>>>>>> test_branch_2
